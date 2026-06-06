@@ -1,2 +1,2 @@
-# machine_learning_from_scratch
+# Machine Learning from scratch
 building machine learning algorithms from scratch
